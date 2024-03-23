@@ -1,0 +1,19 @@
+{
+  "name": "sintsapiente",
+  "version": "1.0.0",
+  "description": "ASN.1 encoder and decoder",
+  "main": "lib/asn1.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeolaGoodwin/sintsapiente.git"
+  },
+  "keywords": [
+    "asn.1",
+    "iusto"
+  ],
+  "author": "ColleenLedner",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
+}
